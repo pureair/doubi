@@ -4,8 +4,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/ToyoDAdoubi/doubi.svg?style=popout&label=Stars)](https://github.com/ToyoDAdoubi/doubi/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ToyoDAdoubi/doubi.svg?style=popout&label=Fork)](https://github.com/ToyoDAdoubi/doubi/fork)
 
-网站镜像，（同时由于是静态站，不支持搜索功能，请大家在云标签页搜索：逗比根据地标签云。）
-逗比根据地：[doubibackup.com](https://doubibackup.com)
+网站镜像（由于是静态站，不支持搜索功能，请在云标签页搜索：逗比根据地标签云。）  
+逗比根据地：[doubibackup.com](https://doubibackup.com)  
 逗比云：[doubiyunbackup.com](https://doubiyunbackup.com)
 ## 脚本索引
 
